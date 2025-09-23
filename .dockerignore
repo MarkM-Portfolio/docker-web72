@@ -1,0 +1,10 @@
+.idea
+.DS_Store
+*/.DS_Store
+release.sh
+run.sh
+readme.md
+makefile
+Dockerfile
+build.sh
+/.git/

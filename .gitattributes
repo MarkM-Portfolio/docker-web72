@@ -1,0 +1,9 @@
+*.conf linguist-language=Conf linguist-vendored=false
+*.dockerignore linguist-language=Docker linguist-vendored=false
+*.gitattributes linguist-language=Git linguist-vendored=false
+*.gitignore linguist-language=Git linguist-vendored=false
+*.ini linguist-language=Ini linguist-vendored=false
+*.md linguist-language=Markdown linguist-vendored=false
+*.php linguist-language=PHP linguist-vendored=false
+*.sh linguist-language=Bash linguist-vendored=false
+Dockerfile linguist-language=Docker linguist-vendored=false
